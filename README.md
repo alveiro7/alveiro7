@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1> Hi I'm Alveiro 👋</h1>
 
-<!--
-**alveiro7/alveiro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-developer** 👨‍💻.
 
-Here are some ideas to get you started:
+I am from Colombia co, of the barranquilla city.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<h2> 🧙‍♂️ My principal skills are:</h2>
+<br>
+
+<p align='center'>
+    <a href="https://www.w3schools.com/html/"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/"><img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://sass-lang.com/"><img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://es.reactjs.org/"><img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+
+</p>
+
