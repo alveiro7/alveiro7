@@ -1,8 +1,13 @@
 <h1> Hi I'm Alveiro 👋</h1>
 
-**Front-developer** 👨‍💻.
+I'm from Colombia co, of the barranquilla city. 
+I'm **Front-developer** 👨‍💻 in search of new challenges and learnings.
 
-I am from Colombia co, of the barranquilla city.
+
+<h2> ⚽ Goal</h2>
+<p align='center'>
+    <a href="https://img.shields.io/badge/-Growth%20as%20a%20person%20and%20professional-orange"><img src="https://img.shields.io/badge/-Growth%20as%20a%20person%20and%20professional-orange" width='420px' heigth='90px' /></a>
+</p>
 
 
 <br>
